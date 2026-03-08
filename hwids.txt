@@ -1,5 +1,3 @@
 BT-b08496dfc1d24166|2026-04-05|chica
 BT-2e9c9e862a8bfeb6
-BT-b3690030fe1eee30
-BT-47bb25eb344aaed8
 BT-d8e382a75dc3d672
